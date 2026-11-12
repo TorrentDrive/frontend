@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.9.1] - 2026-11-12
+
+* ci: commit as the repo owner instead of github-actions[bot] (cdcdef2)
+* docs: apply gitnasr visual identity, remove emoji (844e73f)
+
 ## [2.9.0] - 2026-10-26
 
 * feat(ui): implement multi-hue lifecycle color system for transfer states (9d42209)
