@@ -1,18 +1,9 @@
-# TorrentDrive Frontend
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/banner-dark.svg">
+  <img alt="frontend — torrentdrive by gitnasr" src=".github/banner-light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <strong>The Next.js 16 Web Dashboard, Setup Wizard &amp; Swarm Monitor for TorrentDrive</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TorrentDrive/frontend/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js 16" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="https://tc.gitnasr.com/docs"><img src="https://img.shields.io/badge/Docs-tc.gitnasr.com-00DC82?style=flat-square" alt="Documentation" /></a>
-  <img src="https://img.shields.io/badge/Privacy-100%25%20ISP--Blind-brightgreen?style=flat-square" alt="100% ISP Blind" />
-</p>
-
----
+[Documentation](https://tc.gitnasr.com/docs) · [Website](https://tc.gitnasr.com) · [MIT License](LICENSE)
 
 The modern, responsive web application for [TorrentDrive](https://tc.gitnasr.com) — an open-source, self-hosted torrent-to-Google Drive and S3 cloud downloader.
 
